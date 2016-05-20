@@ -1,0 +1,11 @@
+1 - Solicitar licença Astah
+
+2 - Encontrar o código fonte do pacote escolhido (java.math)
+
+3 - Importar o pacote escolhido no Astah
+
+4 - Criar diagrama de classe e ultilizar auto-layout
+
+5 - Exportar imagem em formato vetorial
+
+6 - Entregar a imagem pelo Blackboard.
